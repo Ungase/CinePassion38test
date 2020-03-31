@@ -1,0 +1,10 @@
+label {
+	display: block;
+  	float: left;
+  	width : 100px;
+}
+
+#Erreur{
+	color: #E30F33;
+	font-weight: bold;
+}

@@ -1,0 +1,31 @@
+.titre{
+	background-color : #3EAAAD;
+	font-weight : bold;
+}
+
+tr:nth-child(even){
+	background-color: #B7E4E8;
+}
+
+tr:nth-child(odd){
+	background-color: #FFFFFF;
+}
+
+tr:hover{
+	background-color: #6DA7A9;
+}
+
+#tab {
+	border: 1px solid black;
+	text-align : center;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#tab td {
+	border: 1px solid black;
+}
+
+#tab th{
+	background-color : #3EAAAD;
+}

@@ -1,0 +1,4 @@
+======================================================
+   Titre : <a onclick='window.open(this.href); return false;' href='http://www.allocine.fr'><img src='./image/film/affiche/Inception.jpg' alt='inception' width='100%' /></a>
+======================================================
+Un patron d'une entreprise est pris pour cible suite a ses travaux sur l'architecture de l'esprit
